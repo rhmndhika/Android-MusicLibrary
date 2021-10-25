@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- action button for copy -->
+
+    <item android:id="@+id/action_profile"
+        android:title="Profile"
+        app:showAsAction="never"/>
+    <item android:id="@+id/action_back"
+        android:title="Back"
+        app:showAsAction="never"/>
+
+</menu>
